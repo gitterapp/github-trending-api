@@ -33,8 +33,7 @@
     "express": "^4.17.1",
     "express-cache-controller": "^1.1.0",
     "lodash": "^4.17.15",
-    "memory-cache": "^0.2.0",
-    "opencollective-postinstall": "^2.0.2"
+    "memory-cache": "^0.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
@@ -69,8 +68,7 @@
     "validate": "npm-run-all build eslint test",
     "prebuild": "rimraf dist",
     "build": "NODE_ENV=production rollup -c",
-    "semantic-release": "semantic-release",
-    "postinstall": "opencollective-postinstall || true"
+    "semantic-release": "semantic-release"
   },
   "lint-staged": {
     "README.md": [
@@ -87,9 +85,5 @@
   },
   "prettier": {
     "singleQuote": true
-  },
-  "collective": {
-    "type": "opencollective",
-    "url": "https://opencollective.com/github-trending-api"
   }
 }

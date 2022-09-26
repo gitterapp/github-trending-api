@@ -1,0 +1,35 @@
+name: Update Languages
+on:
+  schedule:
+    - cron: '11 19 * * MON'
+  push:
+    paths-ignore:
+      - 'src/languages.json'
+      - 'README.md'
+jobs:
+  update_colours:
+    name: Update Languages
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+        
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '2.7.18'
+          
+      - name: Install Dependencies
+        run: pip install -r requirements.txt
+      
+      - name: Update languages
+        run: 'python github-languages.py'
+      - name: Commit
+        run: |
+          git config --local user.name "kimmy214"
+          git config --local user.email "upcwangying@126.com"
+          git commit -am "update languages.json"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GH_TOKEN }}
+          branch: ${{ github.ref }}
