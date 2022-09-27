@@ -77,7 +77,7 @@ def run():
       langs_yml[lang_yml]["type"] == "programming"):
       print("   Parsing the color for '%s' ..." % (lang_yml))
       lang = {}
-      lang["color"] = langs_yml[lang_yml]["color"] if "color" in langs_yml[lang_yml] else None
+      lang["color"] = langs_yml[lang_yml]["color"] if "color" in langs_yml[lang_yml] else "#cccccc"
       lang["url"] = "https://github.com/trending?l=" + (langs_yml[lang_yml]["search_term"] if "search_term" in langs_yml[lang_yml] else lang_yml)
       lang["title"] = lang_yml
       lang["name"] = lang_yml.replace(' ','-').replace('#','sharp').lower()
