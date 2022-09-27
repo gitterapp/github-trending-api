@@ -27,7 +27,8 @@ jobs:
         run: |
           git config --local user.name "kimmy214"
           git config --local user.email "upcwangying@126.com"
-          git commit -am "update languages.json"
+          git add -A
+          git diff-index --quiet HEAD || git commit -m 'Update languages.json'
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
