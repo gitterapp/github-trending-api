@@ -174,7 +174,7 @@
         "title": "AsciiDoc"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=ASL", 
         "name": "asl", 
         "title": "ASL"
@@ -270,7 +270,7 @@
         "title": "Beef"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=Befunge", 
         "name": "befunge", 
         "title": "Befunge"
@@ -390,7 +390,7 @@
         "title": "C++"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=C2hs Haskell", 
         "name": "c2hs-haskell", 
         "title": "C2hs Haskell"
@@ -432,7 +432,7 @@
         "title": "Cap'n Proto"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=CartoCSS", 
         "name": "cartocss", 
         "title": "CartoCSS"
@@ -450,7 +450,7 @@
         "title": "Chapel"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=Charity", 
         "name": "charity", 
         "title": "Charity"
@@ -528,7 +528,7 @@
         "title": "CMake"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=COBOL", 
         "name": "cobol", 
         "title": "COBOL"
@@ -582,7 +582,7 @@
         "title": "Component Pascal"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=Cool", 
         "name": "cool", 
         "title": "Cool"
@@ -660,7 +660,7 @@
         "title": "CWeb"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=Cycript", 
         "name": "cycript", 
         "title": "Cycript"
@@ -720,7 +720,7 @@
         "title": "Dhall"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=DIGITAL Command Language", 
         "name": "digital-command-language", 
         "title": "DIGITAL Command Language"
@@ -750,7 +750,7 @@
         "title": "Dogescript"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=DTrace", 
         "name": "dtrace", 
         "title": "DTrace"
@@ -924,7 +924,7 @@
         "title": "Filebench WML"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=Filterscript", 
         "name": "filterscript", 
         "title": "Filterscript"
@@ -1026,7 +1026,7 @@
         "title": "GCC Machine Description"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=GDB", 
         "name": "gdb", 
         "title": "GDB"
@@ -1266,7 +1266,7 @@
         "title": "Haxe"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=HCL", 
         "name": "hcl", 
         "title": "HCL"
@@ -1356,7 +1356,7 @@
         "title": "Hy"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=HyPhy", 
         "name": "hyphy", 
         "title": "HyPhy"
@@ -1392,7 +1392,7 @@
         "title": "ImageJ Macro"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=Inform 7", 
         "name": "inform-7", 
         "title": "Inform 7"
@@ -1656,7 +1656,7 @@
         "title": "Latte"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=Lean", 
         "name": "lean", 
         "title": "Lean"
@@ -1692,7 +1692,7 @@
         "title": "LilyPond"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=Limbo", 
         "name": "limbo", 
         "title": "Limbo"
@@ -1734,7 +1734,7 @@
         "title": "LLVM"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=Logos", 
         "name": "logos", 
         "title": "Logos"
@@ -1758,7 +1758,7 @@
         "title": "LookML"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=LoomScript", 
         "name": "loomscript", 
         "title": "LoomScript"
@@ -1776,19 +1776,19 @@
         "title": "Lua"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=M", 
         "name": "m", 
         "title": "M"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=M4", 
         "name": "m4", 
         "title": "M4"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=M4Sugar", 
         "name": "m4sugar", 
         "title": "M4Sugar"
@@ -1878,7 +1878,7 @@
         "title": "Metal"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=MiniD", 
         "name": "minid", 
         "title": "MiniD"
@@ -1932,13 +1932,13 @@
         "title": "Modula-3"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=Module Management System", 
         "name": "module-management-system", 
         "title": "Module Management System"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=Monkey", 
         "name": "monkey", 
         "title": "Monkey"
@@ -1950,7 +1950,7 @@
         "title": "Monkey C"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=Moocode", 
         "name": "moocode", 
         "title": "Moocode"
@@ -1998,7 +1998,7 @@
         "title": "MTML"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=MUF", 
         "name": "muf", 
         "title": "MUF"
@@ -2016,7 +2016,7 @@
         "title": "Mustache"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=Myghty", 
         "name": "myghty", 
         "title": "Myghty"
@@ -2034,7 +2034,7 @@
         "title": "Nasal"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=NASL", 
         "name": "nasl", 
         "title": "NASL"
@@ -2124,7 +2124,7 @@
         "title": "NPM Config"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=NSIS", 
         "name": "nsis", 
         "title": "NSIS"
@@ -2202,7 +2202,7 @@
         "title": "ooc"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=Opa", 
         "name": "opa", 
         "title": "Opa"
@@ -2238,7 +2238,7 @@
         "title": "OpenQASM"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=OpenRC runscript", 
         "name": "openrc-runscript", 
         "title": "OpenRC runscript"
@@ -2256,7 +2256,7 @@
         "title": "Org"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=Ox", 
         "name": "ox", 
         "title": "Ox"
@@ -2298,13 +2298,13 @@
         "title": "Parrot"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=Parrot Assembly", 
         "name": "parrot-assembly", 
         "title": "Parrot Assembly"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=Parrot Internal Representation", 
         "name": "parrot-internal-representation", 
         "title": "Parrot Internal Representation"
@@ -2382,7 +2382,7 @@
         "title": "PogoScript"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=Pony", 
         "name": "pony", 
         "title": "Pony"
@@ -2514,7 +2514,7 @@
         "title": "Q#"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=QMake", 
         "name": "qmake", 
         "title": "QMake"
@@ -2580,7 +2580,7 @@
         "title": "RDoc"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=REALbasic", 
         "name": "realbasic", 
         "title": "REALbasic"
@@ -2616,7 +2616,7 @@
         "title": "Red"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=Redcode", 
         "name": "redcode", 
         "title": "Redcode"
@@ -2634,7 +2634,7 @@
         "title": "Ren'Py"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=RenderScript", 
         "name": "renderscript", 
         "title": "RenderScript"
@@ -2706,7 +2706,7 @@
         "title": "RouterOS Script"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=RPC", 
         "name": "rpc", 
         "title": "RPC"
@@ -2736,7 +2736,7 @@
         "title": "Rust"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=Sage", 
         "name": "sage", 
         "title": "Sage"
@@ -2820,7 +2820,7 @@
         "title": "ShellCheck Config"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=ShellSession", 
         "name": "shellsession", 
         "title": "ShellSession"
@@ -2832,7 +2832,7 @@
         "title": "Shen"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=Sieve", 
         "name": "sieve", 
         "title": "Sieve"
@@ -2862,7 +2862,7 @@
         "title": "Slim"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=Smali", 
         "name": "smali", 
         "title": "Smali"
@@ -2886,7 +2886,7 @@
         "title": "SmPL"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=SMT", 
         "name": "smt", 
         "title": "SMT"
@@ -3018,7 +3018,7 @@
         "title": "Swift"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=SWIG", 
         "name": "swig", 
         "title": "SWIG"
@@ -3042,7 +3042,7 @@
         "title": "Tcl"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=Tcsh", 
         "name": "tcsh", 
         "title": "Tcsh"
@@ -3150,7 +3150,7 @@
         "title": "Unity3D Asset"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=Unix Assembly", 
         "name": "unix-assembly", 
         "title": "Unix Assembly"
@@ -3288,7 +3288,7 @@
         "title": "WebAssembly"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=WebIDL", 
         "name": "webidl", 
         "title": "WebIDL"
@@ -3384,7 +3384,7 @@
         "title": "Xonsh"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=XProc", 
         "name": "xproc", 
         "title": "XProc"
@@ -3396,7 +3396,7 @@
         "title": "XQuery"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=XS", 
         "name": "xs", 
         "title": "XS"
@@ -3450,7 +3450,7 @@
         "title": "ZAP"
     }, 
     {
-        "color": null, 
+        "color": "#cccccc", 
         "url": "https://github.com/trending?l=Zeek", 
         "name": "zeek", 
         "title": "Zeek"
