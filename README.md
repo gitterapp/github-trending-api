@@ -97,20 +97,28 @@ https://api.gitterapp.com/languages
 ```json
 [
   {
-    "urlParam": "1c-enterprise",
-    "name": "1C Enterprise"
+    "color": "#814CCC",
+    "url": "https://github.com/trending?l=1C Enterprise",
+    "name": "1c-enterprise",
+    "title": "1C Enterprise"
   },
   {
-    "urlParam": "abap",
-    "name": "ABAP"
+    "color": "#38761D",
+    "url": "https://github.com/trending?l=2-Dimensional Array",
+    "name": "2-dimensional-array",
+    "title": "2-Dimensional Array"
   },
   {
-    "urlParam": "abnf",
-    "name": "ABNF"
+    "color": "#004289",
+    "url": "https://github.com/trending?l=4D",
+    "name": "4d",
+    "title": "4D"
   },
   {
-    "urlParam": "actionscript",
-    "name": "ActionScript"
+    "color": "#E8274B",
+    "url": "https://github.com/trending?l=ABAP",
+    "name": "abap",
+    "title": "ABAP"
   }
 ]
 ```
@@ -187,20 +195,28 @@ List all languages
 ```js
 [
   {
-    urlParam: '1c-enterprise',
-    name: '1C Enterprise',
+    "color": "#814CCC",
+    "url": "https://github.com/trending?l=1C Enterprise",
+    "name": "1c-enterprise",
+    "title": "1C Enterprise"
   },
   {
-    urlParam: 'abap',
-    name: 'ABAP',
+    "color": "#38761D",
+    "url": "https://github.com/trending?l=2-Dimensional Array",
+    "name": "2-dimensional-array",
+    "title": "2-Dimensional Array"
   },
   {
-    urlParam: 'abnf',
-    name: 'ABNF',
+    "color": "#004289",
+    "url": "https://github.com/trending?l=4D",
+    "name": "4d",
+    "title": "4D"
   },
   {
-    urlParam: 'actionscript',
-    name: 'ActionScript',
+    "color": "#E8274B",
+    "url": "https://github.com/trending?l=ABAP",
+    "name": "abap",
+    "title": "ABAP"
   },
 ];
 ```
