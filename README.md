@@ -1,9 +1,5 @@
 <h1 align="center">Github Unofficial Trending API</h1>
 
-## Backers
-
-<a href="https://www.buymeacoffee.com/wangying" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
-
 ## API Status
 
 API status is available at [uptimerobot](https://stats.uptimerobot.com/GWJMDFJ5WP).
@@ -134,20 +130,20 @@ https://api.gitterapp.com/spoken_languages
 ```json
 [
   {
-    "urlParam": "ab",
-    "name": "Abkhazian"
+    "name": "ab",
+    "title": "Abkhazian"
   },
   {
-    "urlParam": "aa",
-    "name": "Afar"
+    "name": "aa",
+    "title": "Afar"
   },
   {
-    "urlParam": "af",
-    "name": "Afrikaans"
+    "name": "af",
+    "title": "Afrikaans"
   },
   {
-    "urlParam": "ak",
-    "name": "Akan"
+    "name": "ak",
+    "title": "Akan"
   }
 ]
 ```
@@ -228,20 +224,20 @@ List all spoken languages
 ```js
 [
   {
-    urlParam: 'ab',
-    name: 'Abkhazian',
+    name: 'ab',
+    title: 'Abkhazian',
   },
   {
-    urlParam: 'aa',
-    name: 'Afar',
+    name: 'aa',
+    title: 'Afar',
   },
   {
-    urlParam: 'af',
-    name: 'Afrikaans',
+    name: 'af',
+    title: 'Afrikaans',
   },
   {
-    urlParam: 'ak',
-    name: 'Akan',
+    name: 'ak',
+    title: 'Akan',
   },
 ];
 ```
@@ -310,6 +306,11 @@ Receive an array of trending developers.
   ...
 ]
 ```
+
+## Backers
+
+<a href="https://www.buymeacoffee.com/wangying" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+
 
 ## License
 
