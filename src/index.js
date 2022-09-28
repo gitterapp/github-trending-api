@@ -3,7 +3,7 @@ import { sample, sampleSize, snakeCase } from 'lodash';
 import languages from './languages.json';
 import spokenLanguages from './spoken-languages.json';
 
-const SERVER_URL = 'https://ghapi.huchen.dev';
+const SERVER_URL = 'https://api.gitterapp.com';
 
 function buildUrl(baseUrl, params = {}) {
   const queryString = Object.keys(params)
