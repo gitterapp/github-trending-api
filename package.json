@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/huchenme/github-trending-api.git"
+    "url": "https://github.com/alisoft/github-trending-api.git"
   },
   "keywords": [
     "github",
@@ -18,13 +18,12 @@
     "api",
     "node"
   ],
-  "author": "Hu Chen <chen@huchen.dev>",
+  "author": "Kimmy <hi@kimmy.me>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/huchenme/github-trending-api/issues",
-    "email": "chen@huchen.dev"
+    "url": "https://github.com/alisoft/github-trending-api/issues"
   },
-  "homepage": "https://github.com/huchenme/github-trending-api#readme",
+  "homepage": "https://github.com/alisoft/github-trending-api#readme",
   "dependencies": {
     "@babel/runtime-corejs3": "^7.9.2",
     "axios": "^0.19.2",
