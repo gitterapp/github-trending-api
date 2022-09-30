@@ -16,7 +16,7 @@ https://api.gitterapp.com/repositories?language=javascript&since=weekly
 
 - `language`: **optional**, list trending repositories of certain programming languages, possible values are listed [here](./src/languages.json).
 - `since`: **optional**, default to `daily`, possible values: `daily`, `weekly` and `monthly`.
-- `spoken_language_code`: **optional**, list trending repositories of certain spoken languages (e.g English, Chinese), possible values are listed [here](./src/spoken-languages.json).
+- `spoken_language`: **optional**, list trending repositories of certain spoken languages (e.g English, Chinese), possible values are listed [here](./src/spoken-languages.json).
 
 **Response:**
 
