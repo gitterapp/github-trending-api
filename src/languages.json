@@ -666,6 +666,12 @@
         "title": "Cycript"
     }, 
     {
+        "color": "#34c0eb", 
+        "url": "https://github.com/trending?l=Cypher", 
+        "name": "cypher", 
+        "title": "Cypher"
+    }, 
+    {
         "color": "#fedf5b", 
         "url": "https://github.com/trending?l=Cython", 
         "name": "cython", 
@@ -1392,6 +1398,12 @@
         "title": "ImageJ Macro"
     }, 
     {
+        "color": "#16cec6", 
+        "url": "https://github.com/trending?l=Imba", 
+        "name": "imba", 
+        "title": "Imba"
+    }, 
+    {
         "color": "#cccccc", 
         "url": "https://github.com/trending?l=Inform 7", 
         "name": "inform-7", 
@@ -1582,6 +1594,12 @@
         "url": "https://github.com/trending?l=Jupyter Notebook", 
         "name": "jupyter-notebook", 
         "title": "Jupyter Notebook"
+    }, 
+    {
+        "color": "#384d54", 
+        "url": "https://github.com/trending?l=just", 
+        "name": "just", 
+        "title": "just"
     }, 
     {
         "color": "#773b37", 
@@ -2154,6 +2172,30 @@
         "title": "NWScript"
     }, 
     {
+        "color": "#85ea2d", 
+        "url": "https://github.com/trending?l=OASv2-json", 
+        "name": "oasv2-json", 
+        "title": "OASv2-json"
+    }, 
+    {
+        "color": "#85ea2d", 
+        "url": "https://github.com/trending?l=OASv2-yaml", 
+        "name": "oasv2-yaml", 
+        "title": "OASv2-yaml"
+    }, 
+    {
+        "color": "#85ea2d", 
+        "url": "https://github.com/trending?l=OASv3-json", 
+        "name": "oasv3-json", 
+        "title": "OASv3-json"
+    }, 
+    {
+        "color": "#85ea2d", 
+        "url": "https://github.com/trending?l=OASv3-yaml", 
+        "name": "oasv3-yaml", 
+        "title": "OASv3-yaml"
+    }, 
+    {
         "color": "#438eff", 
         "url": "https://github.com/trending?l=Objective-C", 
         "name": "objective-c", 
@@ -2220,6 +2262,18 @@
         "title": "Open Policy Agent"
     }, 
     {
+        "color": "#85ea2d", 
+        "url": "https://github.com/trending?l=OpenAPI Specification v2", 
+        "name": "openapi-specification-v2", 
+        "title": "OpenAPI Specification v2"
+    }, 
+    {
+        "color": "#85ea2d", 
+        "url": "https://github.com/trending?l=OpenAPI Specification v3", 
+        "name": "openapi-specification-v3", 
+        "title": "OpenAPI Specification v3"
+    }, 
+    {
         "color": "#ed2e2d", 
         "url": "https://github.com/trending?l=OpenCL", 
         "name": "opencl", 
@@ -2248,6 +2302,12 @@
         "url": "https://github.com/trending?l=OpenSCAD", 
         "name": "openscad", 
         "title": "OpenSCAD"
+    }, 
+    {
+        "color": "#476732", 
+        "url": "https://github.com/trending?l=Option List", 
+        "name": "option-list", 
+        "title": "Option List"
     }, 
     {
         "color": "#77aa99", 
@@ -2322,6 +2382,12 @@
         "title": "Pawn"
     }, 
     {
+        "color": "#0d00ff", 
+        "url": "https://github.com/trending?l=PDDL", 
+        "name": "pddl", 
+        "title": "PDDL"
+    }, 
+    {
         "color": "#234d6b", 
         "url": "https://github.com/trending?l=PEG.js", 
         "name": "peg.js", 
@@ -2380,6 +2446,12 @@
         "url": "https://github.com/trending?l=PogoScript", 
         "name": "pogoscript", 
         "title": "PogoScript"
+    }, 
+    {
+        "color": "#ae81ff", 
+        "url": "https://github.com/trending?l=Polar", 
+        "name": "polar", 
+        "title": "Polar"
     }, 
     {
         "color": "#cccccc", 
@@ -2772,6 +2844,12 @@
         "title": "Scaml"
     }, 
     {
+        "color": "#fdc700", 
+        "url": "https://github.com/trending?l=Scenic", 
+        "name": "scenic", 
+        "title": "Scenic"
+    }, 
+    {
         "color": "#1e4aec", 
         "url": "https://github.com/trending?l=Scheme", 
         "name": "scheme", 
@@ -2836,6 +2914,12 @@
         "url": "https://github.com/trending?l=Sieve", 
         "name": "sieve", 
         "title": "Sieve"
+    }, 
+    {
+        "color": "#C9BFED", 
+        "url": "https://github.com/trending?l=Simple File Verification", 
+        "name": "simple-file-verification", 
+        "title": "Simple File Verification"
     }, 
     {
         "color": "#64E6AD", 
@@ -3250,6 +3334,12 @@
         "url": "https://github.com/trending?l=Visual Basic .NET", 
         "name": "visual-basic-.net", 
         "title": "Visual Basic .NET"
+    }, 
+    {
+        "color": "#2c6353", 
+        "url": "https://github.com/trending?l=Visual Basic 6.0", 
+        "name": "visual-basic-6.0", 
+        "title": "Visual Basic 6.0"
     }, 
     {
         "color": "#1F1F1F", 
