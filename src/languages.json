@@ -1884,6 +1884,12 @@
         "title": "Mercury"
     }, 
     {
+        "color": "#ff3670", 
+        "url": "https://github.com/trending?l=Mermaid", 
+        "name": "mermaid", 
+        "title": "Mermaid"
+    }, 
+    {
         "color": "#007800", 
         "url": "https://github.com/trending?l=Meson", 
         "name": "meson", 
