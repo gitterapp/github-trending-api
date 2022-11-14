@@ -810,6 +810,12 @@
         "title": "ECLiPSe"
     }, 
     {
+        "color": "#eb8131", 
+        "url": "https://github.com/trending?l=Ecmarkup", 
+        "name": "ecmarkup", 
+        "title": "Ecmarkup"
+    }, 
+    {
         "color": "#fff1f2", 
         "url": "https://github.com/trending?l=EditorConfig", 
         "name": "editorconfig", 
@@ -1414,6 +1420,12 @@
         "url": "https://github.com/trending?l=INI", 
         "name": "ini", 
         "title": "INI"
+    }, 
+    {
+        "color": "#cccccc", 
+        "url": "https://github.com/trending?l=Ink", 
+        "name": "ink", 
+        "title": "Ink"
     }, 
     {
         "color": "#264b99", 
@@ -2968,6 +2980,12 @@
         "url": "https://github.com/trending?l=Smarty", 
         "name": "smarty", 
         "title": "Smarty"
+    }, 
+    {
+        "color": "#c44536", 
+        "url": "https://github.com/trending?l=Smithy", 
+        "name": "smithy", 
+        "title": "Smithy"
     }, 
     {
         "color": "#c94949", 
