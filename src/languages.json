@@ -462,6 +462,12 @@
         "title": "ChucK"
     }, 
     {
+        "color": "#707575", 
+        "url": "https://github.com/trending?l=Circom", 
+        "name": "circom", 
+        "title": "Circom"
+    }, 
+    {
         "color": "#ccccff", 
         "url": "https://github.com/trending?l=Cirru", 
         "name": "cirru", 
@@ -756,6 +762,12 @@
         "title": "Dogescript"
     }, 
     {
+        "color": "#e5d559", 
+        "url": "https://github.com/trending?l=Dotenv", 
+        "name": "dotenv", 
+        "title": "Dotenv"
+    }, 
+    {
         "color": "#cccccc", 
         "url": "https://github.com/trending?l=DTrace", 
         "name": "dtrace", 
@@ -978,7 +990,7 @@
         "title": "Fortran Free Form"
     }, 
     {
-        "color": "#867db1", 
+        "color": "#141AC9", 
         "url": "https://github.com/trending?l=FreeBasic", 
         "name": "freebasic", 
         "title": "FreeBasic"
@@ -1176,6 +1188,12 @@
         "title": "Go Module"
     }, 
     {
+        "color": "#355570", 
+        "url": "https://github.com/trending?l=Godot Resource", 
+        "name": "godot-resource", 
+        "title": "Godot Resource"
+    }, 
+    {
         "color": "#88562A", 
         "url": "https://github.com/trending?l=Golo", 
         "name": "golo", 
@@ -1278,7 +1296,7 @@
         "title": "Haxe"
     }, 
     {
-        "color": "#cccccc", 
+        "color": "#844FBA", 
         "url": "https://github.com/trending?l=HCL", 
         "name": "hcl", 
         "title": "HCL"
@@ -1609,9 +1627,9 @@
     }, 
     {
         "color": "#384d54", 
-        "url": "https://github.com/trending?l=just", 
+        "url": "https://github.com/trending?l=Just", 
         "name": "just", 
-        "title": "just"
+        "title": "Just"
     }, 
     {
         "color": "#773b37", 
@@ -1624,6 +1642,12 @@
         "url": "https://github.com/trending?l=KakouneScript", 
         "name": "kakounescript", 
         "title": "KakouneScript"
+    }, 
+    {
+        "color": "#41adf0", 
+        "url": "https://github.com/trending?l=KerboScript", 
+        "name": "kerboscript", 
+        "title": "KerboScript"
     }, 
     {
         "color": "#2f4aab", 
@@ -2448,6 +2472,12 @@
         "title": "Pike"
     }, 
     {
+        "color": "#fbbd16", 
+        "url": "https://github.com/trending?l=PlantUML", 
+        "name": "plantuml", 
+        "title": "PlantUML"
+    }, 
+    {
         "color": "#336790", 
         "url": "https://github.com/trending?l=PLpgSQL", 
         "name": "plpgsql", 
@@ -2572,6 +2602,12 @@
         "url": "https://github.com/trending?l=PureScript", 
         "name": "purescript", 
         "title": "PureScript"
+    }, 
+    {
+        "color": "#ee1e10", 
+        "url": "https://github.com/trending?l=Pyret", 
+        "name": "pyret", 
+        "title": "Pyret"
     }, 
     {
         "color": "#3572A5", 
