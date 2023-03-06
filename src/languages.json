@@ -3162,6 +3162,12 @@
         "title": "SVG"
     }, 
     {
+        "color": "#dea584", 
+        "url": "https://github.com/trending?l=Sway", 
+        "name": "sway", 
+        "title": "Sway"
+    }, 
+    {
         "color": "#F05138", 
         "url": "https://github.com/trending?l=Swift", 
         "name": "swift", 
