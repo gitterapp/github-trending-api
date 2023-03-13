@@ -864,6 +864,12 @@
         "title": "Elvish"
     }, 
     {
+        "color": "#55BB55", 
+        "url": "https://github.com/trending?l=Elvish Transcript", 
+        "name": "elvish-transcript", 
+        "title": "Elvish Transcript"
+    }, 
+    {
         "color": "#c065db", 
         "url": "https://github.com/trending?l=Emacs Lisp", 
         "name": "emacs-lisp", 
@@ -3040,6 +3046,12 @@
         "url": "https://github.com/trending?l=SMT", 
         "name": "smt", 
         "title": "SMT"
+    }, 
+    {
+        "color": "#419179", 
+        "url": "https://github.com/trending?l=Snakemake", 
+        "name": "snakemake", 
+        "title": "Snakemake"
     }, 
     {
         "color": "#AA6746", 
