@@ -462,6 +462,12 @@
         "title": "ChucK"
     }, 
     {
+        "color": "#707575", 
+        "url": "https://github.com/trending?l=Circom", 
+        "name": "circom", 
+        "title": "Circom"
+    }, 
+    {
         "color": "#ccccff", 
         "url": "https://github.com/trending?l=Cirru", 
         "name": "cirru", 
@@ -666,6 +672,12 @@
         "title": "Cycript"
     }, 
     {
+        "color": "#34c0eb", 
+        "url": "https://github.com/trending?l=Cypher", 
+        "name": "cypher", 
+        "title": "Cypher"
+    }, 
+    {
         "color": "#fedf5b", 
         "url": "https://github.com/trending?l=Cython", 
         "name": "cython", 
@@ -750,6 +762,12 @@
         "title": "Dogescript"
     }, 
     {
+        "color": "#e5d559", 
+        "url": "https://github.com/trending?l=Dotenv", 
+        "name": "dotenv", 
+        "title": "Dotenv"
+    }, 
+    {
         "color": "#cccccc", 
         "url": "https://github.com/trending?l=DTrace", 
         "name": "dtrace", 
@@ -804,6 +822,12 @@
         "title": "ECLiPSe"
     }, 
     {
+        "color": "#eb8131", 
+        "url": "https://github.com/trending?l=Ecmarkup", 
+        "name": "ecmarkup", 
+        "title": "Ecmarkup"
+    }, 
+    {
         "color": "#fff1f2", 
         "url": "https://github.com/trending?l=EditorConfig", 
         "name": "editorconfig", 
@@ -838,6 +862,12 @@
         "url": "https://github.com/trending?l=Elvish", 
         "name": "elvish", 
         "title": "Elvish"
+    }, 
+    {
+        "color": "#55BB55", 
+        "url": "https://github.com/trending?l=Elvish Transcript", 
+        "name": "elvish-transcript", 
+        "title": "Elvish Transcript"
     }, 
     {
         "color": "#c065db", 
@@ -966,7 +996,7 @@
         "title": "Fortran Free Form"
     }, 
     {
-        "color": "#867db1", 
+        "color": "#141AC9", 
         "url": "https://github.com/trending?l=FreeBasic", 
         "name": "freebasic", 
         "title": "FreeBasic"
@@ -1164,6 +1194,12 @@
         "title": "Go Module"
     }, 
     {
+        "color": "#355570", 
+        "url": "https://github.com/trending?l=Godot Resource", 
+        "name": "godot-resource", 
+        "title": "Godot Resource"
+    }, 
+    {
         "color": "#88562A", 
         "url": "https://github.com/trending?l=Golo", 
         "name": "golo", 
@@ -1266,7 +1302,7 @@
         "title": "Haxe"
     }, 
     {
-        "color": "#cccccc", 
+        "color": "#844FBA", 
         "url": "https://github.com/trending?l=HCL", 
         "name": "hcl", 
         "title": "HCL"
@@ -1392,6 +1428,12 @@
         "title": "ImageJ Macro"
     }, 
     {
+        "color": "#16cec6", 
+        "url": "https://github.com/trending?l=Imba", 
+        "name": "imba", 
+        "title": "Imba"
+    }, 
+    {
         "color": "#cccccc", 
         "url": "https://github.com/trending?l=Inform 7", 
         "name": "inform-7", 
@@ -1402,6 +1444,12 @@
         "url": "https://github.com/trending?l=INI", 
         "name": "ini", 
         "title": "INI"
+    }, 
+    {
+        "color": "#cccccc", 
+        "url": "https://github.com/trending?l=Ink", 
+        "name": "ink", 
+        "title": "Ink"
     }, 
     {
         "color": "#264b99", 
@@ -1486,6 +1534,12 @@
         "url": "https://github.com/trending?l=JavaScript+ERB", 
         "name": "javascript+erb", 
         "title": "JavaScript+ERB"
+    }, 
+    {
+        "color": "#d90e09", 
+        "url": "https://github.com/trending?l=JCL", 
+        "name": "jcl", 
+        "title": "JCL"
     }, 
     {
         "color": "#15c213", 
@@ -1584,6 +1638,12 @@
         "title": "Jupyter Notebook"
     }, 
     {
+        "color": "#384d54", 
+        "url": "https://github.com/trending?l=Just", 
+        "name": "just", 
+        "title": "Just"
+    }, 
+    {
         "color": "#773b37", 
         "url": "https://github.com/trending?l=Kaitai Struct", 
         "name": "kaitai-struct", 
@@ -1594,6 +1654,12 @@
         "url": "https://github.com/trending?l=KakouneScript", 
         "name": "kakounescript", 
         "title": "KakouneScript"
+    }, 
+    {
+        "color": "#41adf0", 
+        "url": "https://github.com/trending?l=KerboScript", 
+        "name": "kerboscript", 
+        "title": "KerboScript"
     }, 
     {
         "color": "#2f4aab", 
@@ -1864,6 +1930,12 @@
         "url": "https://github.com/trending?l=Mercury", 
         "name": "mercury", 
         "title": "Mercury"
+    }, 
+    {
+        "color": "#ff3670", 
+        "url": "https://github.com/trending?l=Mermaid", 
+        "name": "mermaid", 
+        "title": "Mermaid"
     }, 
     {
         "color": "#007800", 
@@ -2154,6 +2226,30 @@
         "title": "NWScript"
     }, 
     {
+        "color": "#85ea2d", 
+        "url": "https://github.com/trending?l=OASv2-json", 
+        "name": "oasv2-json", 
+        "title": "OASv2-json"
+    }, 
+    {
+        "color": "#85ea2d", 
+        "url": "https://github.com/trending?l=OASv2-yaml", 
+        "name": "oasv2-yaml", 
+        "title": "OASv2-yaml"
+    }, 
+    {
+        "color": "#85ea2d", 
+        "url": "https://github.com/trending?l=OASv3-json", 
+        "name": "oasv3-json", 
+        "title": "OASv3-json"
+    }, 
+    {
+        "color": "#85ea2d", 
+        "url": "https://github.com/trending?l=OASv3-yaml", 
+        "name": "oasv3-yaml", 
+        "title": "OASv3-yaml"
+    }, 
+    {
         "color": "#438eff", 
         "url": "https://github.com/trending?l=Objective-C", 
         "name": "objective-c", 
@@ -2220,6 +2316,18 @@
         "title": "Open Policy Agent"
     }, 
     {
+        "color": "#85ea2d", 
+        "url": "https://github.com/trending?l=OpenAPI Specification v2", 
+        "name": "openapi-specification-v2", 
+        "title": "OpenAPI Specification v2"
+    }, 
+    {
+        "color": "#85ea2d", 
+        "url": "https://github.com/trending?l=OpenAPI Specification v3", 
+        "name": "openapi-specification-v3", 
+        "title": "OpenAPI Specification v3"
+    }, 
+    {
         "color": "#ed2e2d", 
         "url": "https://github.com/trending?l=OpenCL", 
         "name": "opencl", 
@@ -2248,6 +2356,12 @@
         "url": "https://github.com/trending?l=OpenSCAD", 
         "name": "openscad", 
         "title": "OpenSCAD"
+    }, 
+    {
+        "color": "#476732", 
+        "url": "https://github.com/trending?l=Option List", 
+        "name": "option-list", 
+        "title": "Option List"
     }, 
     {
         "color": "#77aa99", 
@@ -2322,6 +2436,12 @@
         "title": "Pawn"
     }, 
     {
+        "color": "#0d00ff", 
+        "url": "https://github.com/trending?l=PDDL", 
+        "name": "pddl", 
+        "title": "PDDL"
+    }, 
+    {
         "color": "#234d6b", 
         "url": "https://github.com/trending?l=PEG.js", 
         "name": "peg.js", 
@@ -2364,6 +2484,12 @@
         "title": "Pike"
     }, 
     {
+        "color": "#fbbd16", 
+        "url": "https://github.com/trending?l=PlantUML", 
+        "name": "plantuml", 
+        "title": "PlantUML"
+    }, 
+    {
         "color": "#336790", 
         "url": "https://github.com/trending?l=PLpgSQL", 
         "name": "plpgsql", 
@@ -2380,6 +2506,12 @@
         "url": "https://github.com/trending?l=PogoScript", 
         "name": "pogoscript", 
         "title": "PogoScript"
+    }, 
+    {
+        "color": "#ae81ff", 
+        "url": "https://github.com/trending?l=Polar", 
+        "name": "polar", 
+        "title": "Polar"
     }, 
     {
         "color": "#cccccc", 
@@ -2482,6 +2614,12 @@
         "url": "https://github.com/trending?l=PureScript", 
         "name": "purescript", 
         "title": "PureScript"
+    }, 
+    {
+        "color": "#ee1e10", 
+        "url": "https://github.com/trending?l=Pyret", 
+        "name": "pyret", 
+        "title": "Pyret"
     }, 
     {
         "color": "#3572A5", 
@@ -2772,6 +2910,12 @@
         "title": "Scaml"
     }, 
     {
+        "color": "#fdc700", 
+        "url": "https://github.com/trending?l=Scenic", 
+        "name": "scenic", 
+        "title": "Scenic"
+    }, 
+    {
         "color": "#1e4aec", 
         "url": "https://github.com/trending?l=Scheme", 
         "name": "scheme", 
@@ -2838,6 +2982,12 @@
         "title": "Sieve"
     }, 
     {
+        "color": "#C9BFED", 
+        "url": "https://github.com/trending?l=Simple File Verification", 
+        "name": "simple-file-verification", 
+        "title": "Simple File Verification"
+    }, 
+    {
         "color": "#64E6AD", 
         "url": "https://github.com/trending?l=Singularity", 
         "name": "singularity", 
@@ -2880,6 +3030,12 @@
         "title": "Smarty"
     }, 
     {
+        "color": "#c44536", 
+        "url": "https://github.com/trending?l=Smithy", 
+        "name": "smithy", 
+        "title": "Smithy"
+    }, 
+    {
         "color": "#c94949", 
         "url": "https://github.com/trending?l=SmPL", 
         "name": "smpl", 
@@ -2890,6 +3046,12 @@
         "url": "https://github.com/trending?l=SMT", 
         "name": "smt", 
         "title": "SMT"
+    }, 
+    {
+        "color": "#419179", 
+        "url": "https://github.com/trending?l=Snakemake", 
+        "name": "snakemake", 
+        "title": "Snakemake"
     }, 
     {
         "color": "#AA6746", 
@@ -3010,6 +3172,12 @@
         "url": "https://github.com/trending?l=SVG", 
         "name": "svg", 
         "title": "SVG"
+    }, 
+    {
+        "color": "#dea584", 
+        "url": "https://github.com/trending?l=Sway", 
+        "name": "sway", 
+        "title": "Sway"
     }, 
     {
         "color": "#F05138", 
@@ -3250,6 +3418,12 @@
         "url": "https://github.com/trending?l=Visual Basic .NET", 
         "name": "visual-basic-.net", 
         "title": "Visual Basic .NET"
+    }, 
+    {
+        "color": "#2c6353", 
+        "url": "https://github.com/trending?l=Visual Basic 6.0", 
+        "name": "visual-basic-6.0", 
+        "title": "Visual Basic 6.0"
     }, 
     {
         "color": "#1F1F1F", 
