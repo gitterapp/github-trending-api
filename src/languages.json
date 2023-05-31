@@ -690,6 +690,12 @@
         "title": "D"
     }, 
     {
+        "color": "#526ee8", 
+        "url": "https://github.com/trending?l=D2", 
+        "name": "d2", 
+        "title": "D2"
+    }, 
+    {
         "color": "#FFEC25", 
         "url": "https://github.com/trending?l=Dafny", 
         "name": "dafny", 
@@ -1192,6 +1198,12 @@
         "url": "https://github.com/trending?l=Go Module", 
         "name": "go-module", 
         "title": "Go Module"
+    }, 
+    {
+        "color": "#00ADD8", 
+        "url": "https://github.com/trending?l=Go Workspace", 
+        "name": "go-workspace", 
+        "title": "Go Workspace"
     }, 
     {
         "color": "#355570", 
@@ -1926,6 +1938,12 @@
         "title": "mcfunction"
     }, 
     {
+        "color": "#fcb32c", 
+        "url": "https://github.com/trending?l=MDX", 
+        "name": "mdx", 
+        "title": "MDX"
+    }, 
+    {
         "color": "#ff2b2b", 
         "url": "https://github.com/trending?l=Mercury", 
         "name": "mercury", 
@@ -2220,6 +2238,12 @@
         "title": "Nunjucks"
     }, 
     {
+        "color": "#4E9906", 
+        "url": "https://github.com/trending?l=Nushell", 
+        "name": "nushell", 
+        "title": "Nushell"
+    }, 
+    {
         "color": "#111522", 
         "url": "https://github.com/trending?l=NWScript", 
         "name": "nwscript", 
@@ -2274,7 +2298,7 @@
         "title": "ObjectScript"
     }, 
     {
-        "color": "#3be133", 
+        "color": "#ef7a08", 
         "url": "https://github.com/trending?l=OCaml", 
         "name": "ocaml", 
         "title": "OCaml"
@@ -2392,6 +2416,12 @@
         "url": "https://github.com/trending?l=P4", 
         "name": "p4", 
         "title": "P4"
+    }, 
+    {
+        "color": "#F7A8B8", 
+        "url": "https://github.com/trending?l=Pact", 
+        "name": "pact", 
+        "title": "Pact"
     }, 
     {
         "color": "#cc0000", 
@@ -2710,6 +2740,12 @@
         "url": "https://github.com/trending?l=Rascal", 
         "name": "rascal", 
         "title": "Rascal"
+    }, 
+    {
+        "color": "#701516", 
+        "url": "https://github.com/trending?l=RBS", 
+        "name": "rbs", 
+        "title": "RBS"
     }, 
     {
         "color": "#701516", 
@@ -3252,6 +3288,12 @@
         "title": "TI Program"
     }, 
     {
+        "color": "#C40023", 
+        "url": "https://github.com/trending?l=TL-Verilog", 
+        "name": "tl-verilog", 
+        "title": "TL-Verilog"
+    }, 
+    {
         "color": "#4b0079", 
         "url": "https://github.com/trending?l=TLA", 
         "name": "tla", 
@@ -3460,6 +3502,12 @@
         "url": "https://github.com/trending?l=WebAssembly", 
         "name": "webassembly", 
         "title": "WebAssembly"
+    }, 
+    {
+        "color": "#6250e7", 
+        "url": "https://github.com/trending?l=WebAssembly Interface Type", 
+        "name": "webassembly-interface-type", 
+        "title": "WebAssembly Interface Type"
     }, 
     {
         "color": "#cccccc", 
