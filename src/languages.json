@@ -1350,6 +1350,12 @@
         "title": "hoon"
     }, 
     {
+        "color": "#308888", 
+        "url": "https://github.com/trending?l=Hosts File", 
+        "name": "hosts-file", 
+        "title": "Hosts File"
+    }, 
+    {
         "color": "#e34c26", 
         "url": "https://github.com/trending?l=HTML", 
         "name": "html", 
@@ -3514,6 +3520,12 @@
         "url": "https://github.com/trending?l=WebIDL", 
         "name": "webidl", 
         "title": "WebIDL"
+    }, 
+    {
+        "color": "#1a5e9a", 
+        "url": "https://github.com/trending?l=WGSL", 
+        "name": "wgsl", 
+        "title": "WGSL"
     }, 
     {
         "color": "#d5c397", 
