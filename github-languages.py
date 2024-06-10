@@ -1,3 +1,12 @@
+# github-languages.py
+# /// script
+# requires-python = ">=3.12"
+# dependencies = [
+#   "requests<3",
+#   "PyYAML",
+# ]
+# ///
+
 import json
 import requests
 import sys

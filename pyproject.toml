@@ -1,0 +1,22 @@
+[project]
+name = "github-trending-api"
+version = "0.0.1"
+description = "Github Unofficial Trending API"
+authors = [
+    {name = "kjxbyz", email = "kjxbyz888@outlook.com"},
+]
+dependencies = [
+    "PyYAML>=6.0.1",
+    "requests>=2.32.3",
+]
+requires-python = ">=3.12"
+readme = "README.md"
+license = {text = "MIT"}
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
+
+
+[tool.pdm]
+distribution = false

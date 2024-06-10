@@ -18,14 +18,8 @@ lib-cov
 # Coverage directory used by tools like istanbul
 coverage
 
-# nyc test coverage
-.nyc_output
-
 # Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
 .grunt
-
-# Bower dependency directory (https://bower.io/)
-bower_components
 
 # node-waf configuration
 .lock-wscript
@@ -35,7 +29,6 @@ build/Release
 
 # Dependency directories
 node_modules/
-jspm_packages/
 
 # Typescript v1 declaration files
 typings/
@@ -45,9 +38,6 @@ typings/
 
 # Optional eslint cache
 .eslintcache
-
-# Optional REPL history
-.node_repl_history
 
 # Output of 'npm pack'
 *.tgz
@@ -68,3 +58,7 @@ package-lock.json
 /public
 # Local Netlify folder
 .netlify
+
+.pdm-build
+.venv
+.pdm-python

@@ -11,24 +11,29 @@ jobs:
     name: Update Languages
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
+      - uses: actions/checkout@v4
         
-      - uses: actions/setup-python@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
-          python-version: '2.7.18'
+          python-version: '3.12'
           
-      - name: Install Dependencies
-        run: pip install -r requirements.txt
+      - name: Setup PDM
+        uses: pdm-project/setup-pdm@v4
+        
+      - name: Install dependencies
+        run: pdm install
       
       - name: Update languages
-        run: 'python github-languages.py'
+        run: pdm run github-languages.py
+
       - name: Commit
         run: |
-          git config --local user.name "kimmy214"
-          git config --local user.email "upcwangying@126.com"
+          git config --local user.name "kjxbyz"
+          git config --local user.email "kjxbyz888@outlook.com"
           git add -A
           git diff-index --quiet HEAD || git commit -m 'Update languages.json'
+
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
